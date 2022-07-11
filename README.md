@@ -28,5 +28,8 @@
 <h5 align="left" style="position: absolute; top: 289px; left: 260px;"><font size="3">Operational systems:</font></h5>
 <p align="left" style="position: absolute; top: 340px; left: 260px;">
     <a href="https://www.microsoft.com/pt-br/software-download/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+    <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosviniicius&show_icons=true&locale=en&layout=compact" alt="marcosviniicius" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosviniicius&show_icons=true&locale=en" alt="marcosviniicius" /></p>
