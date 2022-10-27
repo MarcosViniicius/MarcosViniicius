@@ -14,9 +14,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
 </p> 
-<p>
-    <h2 align="left"><font size="3">🚀 Learning:</font> </h2>
+
+<h2 align="left"><font size="3">🚀 Learning:</font> </h2>
+<p align="left" style="position: static;">
+    <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/elixir.svg" alt="elixir" width="40" height="40"/> </a> 
 </p>
+
 <h4 align="left" style="position: absolute; top: 184px; left: 260px;"><font size="3">Databases:</font></h4>
 <p align="left" style="position: absolute; top: 228px; left: 260px;">
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
