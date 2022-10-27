@@ -18,6 +18,7 @@
 <h2 align="left"><font size="3">🚀 Learning:</font> </h2>
 <p align="left" style="position: static;">
     <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373577/elixir.svg" alt="elixir" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left" style="position: absolute; top: 184px; left: 260px;"><font size="3">Databases:</font></h4>
