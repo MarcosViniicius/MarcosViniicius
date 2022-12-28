@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos Vinicius</h1>
-<p><strong>- I'm a student and passionate about technology;</strong></p>
 <p><strong>- My name is Marcos Vinicius and I was born in Natal, Rio Grande do Norte, Brasil;</strong></p>
+<p><strong>- My native language is portuguese;</strong></p>
 <p><strong>- I started to code when I was 15 years old and currently studying at IFRN in a technical course of computing;</strong></p>
 
 
