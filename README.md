@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcos Vinicius</h1>
-<h3 align="left">I'm a student and passionate about technology</h3>
+<p><strong>- I'm a student and passionate about technology;</strong></p>
+<p><strong>- My name is Marcos Vinicius and I was born in Natal, Rio Grande do Norte, Brasil;</strong></p>
+<p><strong>- I started to code when I was 15 years old and currently studying at IFRN in a technical course of computing;</strong></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcosvinicius1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcosvinicius1" height="30" width="40" /></a>
-</p>
 
 <h2 align="left"><font size="3">💻 Programming Languages:</font></h2>
 <p align="left" style="position: static;"> 
@@ -29,10 +27,11 @@
     <a href="https://github.com/MarcosViniicius" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="git" width="40" height="40"/></a>
 </p>
  
-<h5 align="left" style="position: absolute; top: 289px; left: 260px;"><font size="3">Operational systems:</font></h5>
-<p align="left" style="position: absolute; top: 340px; left: 260px;">
-    <a href="https://www.microsoft.com/pt-br/software-download/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> </a></p>
+<h3 align="left">Contact Me:</h3>
+<a href="https://instagram.com/_marcoslucena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:marcosvinicius.lucena27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcosvinicius1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosviniicius&show_icons=true&locale=en&layout=compact" alt="marcosviniicius" /></p>
 
