@@ -5,10 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=marcosviniicius&label=Profile%20views&color=0e75b6&style=flat" alt="marcosviniicius" />
 </p>
 
-- 🌱 No momento estou estudando **Língua Java**  
+- 🌱 No momento estou estudando **Línguagem Java**  
 - 🧠 Todos os meus projetos estão disponíveis em [https://marcos-vinicius.vercel.app/](https://marcos-vinicius.vercel.app/)  
 - 📫 Como entrar em contato: **marcosvinicius.lucena27@gmail.com**  
-- ⚡ Curiosidade: **planto couve, toco guitarra e amo músicas**
 
 ---
 
